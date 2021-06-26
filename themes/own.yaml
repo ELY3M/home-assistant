@@ -1,0 +1,122 @@
+own:
+  ### Header Height ###
+  header-height: 44px
+  ###Font 
+  primary-font-family: "Fixedsys"
+  paper-font-body_-_font-family: "var(--primary-font-family)"
+  paper-font-body1_-_font-family: "var(--primary-font-family)"
+  paper-font-body1_-_font-weight: "500"
+  paper-font-body1_-_font-size: "16px"
+  paper-font-caption_-_font-family: "var(--primary-font-family)"
+  paper-font-common-base_-_font-family: "var(--primary-font-family)"
+  paper-font-headline_-_font-family: "var(--primary-font-family)"
+  paper-font-headline_-_font-weight: "500"
+  paper-font-headline_-_font-size: "16px"
+  ##paper-font-headline_-_letter-spacing: "-0.5px"
+  paper-font-subhead_-_font-family: "var(--primary-font-family)"
+  paper-font-title_-_font-family: "var(--primary-font-family)"
+  
+  ### Main Interface Colors ###
+  lovelace-background: 'center / cover no-repeat url("/local/ELYspace-850.jpg") fixed'
+  app-header-background-color: "#000000"
+  ###card-background-color: "rgba(0, 0, 0, 0.5)"
+  card-background-color: "rgba(0, 0, 0, 1)"
+  border-color: '#0000FF'
+  border: 'solid 1px #0000FF'
+  card-border: 'solid 1px #0000FF'
+  primary-color: "#007AFF"
+  light-primary-color: "#4DA3FF"
+  primary-background-color: var(--app-header-background-color)
+  secondary-background-color: "#000000"
+  ###divider-color: "#3B4C8B"
+  divider-color: "#0000FF"
+  markdown-code-background-color: "#1E2747"
+  ### Text ###
+  primary-text-color: "#FFFFFF"
+  secondary-text-color: "#FFFFFF"
+  text-primary-color: var(--primary-text-color)
+  disabled-text-color: "#CCCCCC"
+  ### Sidebar Menu ###
+  sidebar-icon-color: "#00FFFF"
+  sidebar-text-color: "#FFFFFF"
+  sidebar-selected-background-color: "#00FFFF"
+  sidebar-selected-icon-color: "#000000"
+  sidebar-selected-text-color: "#000000"
+  sidebar-background-color: var(--primary-background-color)
+  ### States and Badges ###
+  state-icon-color: var(--primary-color)
+  state-icon-active-color: "#FFFF00"
+  state-icon-unavailable-color: var(--disabled-text-color)
+  ### Sliders ###
+  paper-slider-knob-color: var(--primary-color)
+  paper-slider-knob-start-color: var(--paper-slider-knob-color)
+  paper-slider-pin-color: var(--paper-slider-knob-color)
+  paper-slider-active-color: var(--paper-slider-knob-color)
+  paper-slider-secondary-color: var(--light-primary-color)
+  ### Labels ###
+  label-badge-background-color: var(--markdown-code-background-color)
+  label-badge-text-color: var(--primary-text-color)
+  label-badge-red: var(--divider-color)
+  label-badge-yellow: "#DCA304"
+  ### Cards ###
+  ha-card-border-radius: '0px'
+  ###ha-card-background: "rgba(0, 0, 0, 0.5)"
+  ha-card-background: "rgba(0, 0, 0, 1)"
+  ha-card-box-shadow: "0px 0px 0px 1px #0000FF"
+  ha-card-header-color: "#FFFFFF"
+  
+  paper-card-header-color: var(--primary-text-color)
+  paper-card-background-color: var(--ha-card-background)
+  paper-listbox-background-color: var(--primary-background-color)
+  
+  ### Toggles ###
+  paper-toggle-button-checked-button-color: "#FCFCFC"
+  paper-toggle-button-checked-bar-color: var(--light-primary-color)
+  paper-toggle-button-unchecked-button-color: var(--paper-toggle-button-checked-button-color)
+  paper-toggle-button-unchecked-bar-color: "#303F79"
+  ### Table row ###
+  table-row-background-color: var(--primary-background-color)
+  table-row-alternative-background-color: var(--primary-background-color)
+  data-table-background-color: var(--primary-background-color)
+  ### Switches ###
+  switch-unchecked-button-color: var(--divider-color)
+  switch-unchecked-track-color: var(--divider-color)
+  
+##Weather Icons
+  weather-icon-clear-night: url("/local/weather/clear-night.png")
+  weather-icon-cloudy: url("/local/weather/cloudy.png")
+  weather-icon-fog: url("/local/weather/fog.png")
+  weather-icon-lightning: url("/local/weather/lightning.png")
+  weather-icon-lightning-rainy: url("/local/weather/lightning-rainy.png")
+  weather-icon-partlycloudy: url("/local/weather/partlycloudy.png")
+  weather-icon-pouring: url("/local/weather/pouring.png")
+  weather-icon-rainy: url("/local/weather/rainy.png")
+  weather-icon-hail: url("/local/weather/hail.png")
+  weather-icon-snowy: url("/local/weather/snowy.png")
+  weather-icon-snowy-rainy: url("/local/weather/snowy-rainy.png")
+  weather-icon-sunny: url("/local/weather/sunny.png")
+  weather-icon-windy: url("/local/weather/windy.png")
+  weather-icon-windy-variant: url("/local/weather/windy-variant.png")
+  weather-icon-exceptional: url("/local/weather/exceptional.png")
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
