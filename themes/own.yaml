@@ -79,8 +79,10 @@ own:
   table-row-alternative-background-color: var(--primary-background-color)
   data-table-background-color: var(--primary-background-color)
   ### Switches ###
-  switch-unchecked-button-color: var(--divider-color)
-  switch-unchecked-track-color: var(--divider-color)
+  switch-checked-button-color: "#0000FF"
+  switch-checked-track-color: "#0000FF"
+  switch-unchecked-button-color: "#757575"
+  switch-unchecked-track-color: "#757575"
   
 ##Weather Icons
   weather-icon-clear-night: url("/local/weather/clear-night.png")

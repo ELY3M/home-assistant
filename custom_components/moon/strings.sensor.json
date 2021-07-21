@@ -1,0 +1,36 @@
+{
+    "state": {
+        "moon__phase": {
+        "moon0": "New Moon",
+        "moon1": "Waxing Crescent",
+        "moon2": "Waxing Crescent",
+        "moon3": "Waxing Crescent",
+        "moon4": "Waxing Crescent",
+        "moon5": "Waxing Crescent",
+        "moon6": "Waxing Crescent",
+        "moon7": "First Quarter",
+        "moon8": "Waxing Gibbous",
+        "moon9": "Waxing Gibbous",
+        "moon10": "Waxing Gibbous",
+        "moon11": "Waxing Gibbous",
+        "moon12": "Waxing Gibbous",
+        "moon13": "Waxing Gibbous",
+        "moon14": "Waxing Gibbous",
+        "moon15": "Full Moon",
+        "moon16": "Waning Gibbous",
+        "moon17": "Waning Gibbous",
+        "moon18": "Waning Gibbous",
+        "moon19": "Waning Gibbous",
+        "moon20": "Waning Gibbous",	  
+        "moon21": "Waning Gibbous",	
+        "moon22": "Waning Gibbous",	
+        "moon23": "Last Quarter",	
+        "moon24": "Waning Crescent",	
+        "moon25": "Waning Crescent",	
+        "moon26": "Waning Crescent",	
+        "moon27": "Waning Crescent",	
+        "moon28": "Waning Crescent",
+        "moon29": "Waning Crescent"		
+        }
+    }
+}
